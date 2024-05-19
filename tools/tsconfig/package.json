@@ -1,0 +1,30 @@
+{
+  "name": "@vladislaw9/tsconfig",
+  "version": "1.0.0",
+  "description": "typescript config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "VLADISLAW9",
+    "url": "https://github.com/VLADISLAW9"
+  },
+  "homepage": "https://github.com/VLADISLAW9/core",
+  "repository": {
+    "url": "https://github.com/VLADISLAW9/core"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "tsconfig.react.json"
+  ],
+  "keywords": [
+    "typescript"
+  ],
+  "peerDependencies": {
+    "typescript": "^4.9.5 || ^5.0.0"
+  },
+  "license": "MIT"
+}
