@@ -1,0 +1,36 @@
+{
+  "name": "@vladislaw9/stylelint",
+  "version": "1.0.0",
+  "description": "stylelint config",
+  "main": "index.js",
+  "author": {
+    "name": "VLADISLAW9",
+    "url": "https://github.com/vladislaw9"
+  },
+  "homepage": "https://github.com/VLADISLAW9/core",
+  "repository": {
+    "url": "https://github.com/VLADISLAW9/core"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    ".stylelintrc.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "stylelint": "^16.5.0"
+  },
+  "dependencies": {
+    "stylelint": "^16.5.0",
+    "stylelint-config-idiomatic-order": "^10.0.0",
+    "stylelint-config-standard-scss": "^13.1.0",
+    "stylelint-order": "^6.0.4"
+  }
+}

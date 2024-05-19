@@ -1,0 +1,33 @@
+{
+  "name": "@vladislaw9/prettier",
+  "version": "1.0.0",
+  "description": "prettier config",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"*.js\""
+  },
+  "homepage": "https://github.com/VLADISLAW9/core#readme",
+  "repository": {
+    "url": "https://github.com/VLADISLAW9/core"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    ".prettierrc.js"
+  ],
+  "author": {
+    "name": "VLADISLAW9",
+    "url": "https://github.com/VLADISLAW9"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
