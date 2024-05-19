@@ -4,6 +4,6 @@
 
 ## 🛠️ Инструменты
 
-- [eslint](/tools/eslint/README.md)
-- [prettier](/tools/prettier/README.md)
-- [stylelint](/tools/stylelint/README.md)
+- [eslint](/tools/eslint)
+- [prettier](/tools/prettier)
+- [stylelint](/tools/stylelint)
