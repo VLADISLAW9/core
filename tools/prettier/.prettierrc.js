@@ -7,6 +7,6 @@ module.exports = {
   semi: true,
   tabWidth: 2,
   useTabs: false,
-  endOfLine: "lf",
+  endOfLine: "auto",
   arrowParens: "always",
 };
